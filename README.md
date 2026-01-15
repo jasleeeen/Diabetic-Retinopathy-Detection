@@ -1,4 +1,4 @@
-# Diabetic-Retinopathy-Detection
+# Diabetic Retinopathy Detection
 Automated Diabetic Retinopathy Detection Using Deep Learning and Image Analysis
 
 This project focuses on the detection of Diabetic Retinopathy (DR) from retinal images using a deep learning approach. Diabetic Retinopathy is a complication of diabetes that affects the eyes, and early detection is crucial for preventing vision loss. This repository presents a solution for binary classification, distinguishing between 'Diseased' and 'Healthy' retinal images.
